@@ -1,11 +1,11 @@
 ---
-title: "setup"
+title: "organisation"
 bg: orange
 color: black
-fa-icon: cog
+fa-icon: fa-cog
 ---
 
-## Setup
+## Organisation
 
 Committee
 
