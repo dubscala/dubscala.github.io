@@ -2,7 +2,7 @@
 title: "contibuting"
 bg: '#63BD2F'
 color: white
-fa-icon: fa-plug
+fa-icon: hands-helping
 ---
 
 # Contibuting
