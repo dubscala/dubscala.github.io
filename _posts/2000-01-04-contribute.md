@@ -1,11 +1,11 @@
 ---
-title: "contibute"
+title: "contribute"
 bg: '#63BD2F'
 color: white
 fa-icon: hands-helping
 ---
 
-# Contibute
+# Contribute
 
 Attending meetups is contributing but if you would like to do more you can volunteer to speak at one of our meetups, organise a meetup or host/sponsor a meetup.
 
